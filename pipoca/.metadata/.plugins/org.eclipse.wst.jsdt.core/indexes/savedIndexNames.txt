@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3133669739.index
+1148876832.index
+3562835908.index
+1853417694.index
+1313592059.index

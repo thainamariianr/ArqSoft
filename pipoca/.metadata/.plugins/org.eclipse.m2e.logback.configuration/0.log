@@ -1,1 +1,22 @@
-2018-08-30 17:25:47,077 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-24 16:57:46,006 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-09-24 16:59:44,268 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-24 16:59:52,789 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: pipoca:pipoca:0.0.1-SNAPSHOT @ C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\pom.xml.
+2018-09-24 17:00:01,134 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-24 17:00:01,143 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\src\main\resources
+2018-09-24 17:00:01,163 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-24 17:00:01,170 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\src\test\resources
+2018-09-24 17:00:01,329 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pipoca/src
+2018-09-24 17:00:01,332 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /pipoca/src/test/java because it overlaps with /pipoca/src
+2018-09-24 17:00:05,242 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-24 17:00:05,249 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\src\main\resources
+2018-09-24 17:00:05,261 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-24 17:00:05,267 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\src\test\resources
+2018-09-24 17:00:15,478 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-24 17:00:15,486 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\src\main\resources
+2018-09-24 17:00:15,492 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-24 17:00:15,502 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\src\test\resources
+2018-09-24 17:00:16,172 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-24 17:00:16,183 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\src\main\resources
+2018-09-24 17:00:16,188 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-24 17:00:16,195 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\WebContent\META-INF\maven\pipoca\pipoca\src\test\resources
+2018-09-24 17:00:17,450 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 33 sec

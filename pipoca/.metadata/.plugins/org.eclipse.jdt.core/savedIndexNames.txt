@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\thain\Desktop\6 Semestre\Arquitetura de Software\Files\Entregas\pipoca\.metadata\.plugins\org.eclipse.jdt.core
